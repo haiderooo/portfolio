@@ -1,5 +1,5 @@
 ---
-title: "My first blog"
+title: "Political Ecology and Nation States"
 excerpt_separator: "<!--more-->"
 categories:
   - project1
@@ -9,7 +9,7 @@ tags:
 image: images/banner_home.jpg
 ---
 
-This is my first blog post!
+Crazy borders distorting people's relation to land.
 
 <!--more-->
 
