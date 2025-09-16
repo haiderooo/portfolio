@@ -20,14 +20,17 @@ This is an online catalogue of manuscripts related to Islam present in several l
 
 ![a random image]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
 
+
 It provides the bibliographic information/description of Islamicate manuscripts with a focus on Arabic 
 but including a wide variety of languages from around the world. 
 
 ![a random image]({{site.baseurl}}images/AFIHRIST-Languages.png)
 
+
 It is presented online through their FIHRIST website. The website name is more commonly used to refer to the catalogue than its full name.
 
 ![a random image]({{site.baseurl}}images/AFIHRIST-Logo.png)
+
 
 In light of Drucker’s framework for digital humanities projects, this catalogue engages in 
 all three stages including materials, processing and presentation. 
@@ -45,6 +48,7 @@ The presentation of the processed material is delivered through the FIHRIST webs
 
 ![a random image]({{site.baseurl}}images/AFIHRIST-SearchEngine.png)
 
+
 It not only provides Bibliographic information but also provides links to request material from host libraries offline and online. 
 
 Moreover, the OpenSource approach of this DH project means that they have provided the XML/TEI code on github. 
@@ -52,5 +56,10 @@ So it is easily replicable as a system of DH cataloguing for others.
 
 Explore the catalogue through the following URL: https://www.fihrist.org.uk/
 
-References
-Drucker, Johanna. The digital humanities coursebook: an introduction to digital methods for research and scholarship. Routledge, 2021.
+----------------------------------------------------------------------------
+
+## References:
+
+1. Drucker, Johanna. The digital humanities coursebook: an introduction to digital 
+   methods for research and scholarship. Routledge, 2021.
+
