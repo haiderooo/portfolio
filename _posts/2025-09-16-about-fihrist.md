@@ -1,5 +1,5 @@
 ---
-title: "2025-09-16-about-fihrist.md"
+title: "About FIHRIST"
 excerpt_separator: "<!--more-->"
 categories:
   - summary of a DH Project
