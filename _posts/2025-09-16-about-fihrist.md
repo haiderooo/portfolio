@@ -9,7 +9,7 @@ tags:
   - fihrist
   - catalog
   - non-latin script data
-image: images/AFIHRIST-Banner.jpg
+image: images/AFIHRIST-BannerFinal.png
 ---
 
 Union Catalogue of Manuscripts from the Islamicate World
