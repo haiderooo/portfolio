@@ -54,7 +54,7 @@ It not only provides Bibliographic information but also provides links to reques
 Moreover, the OpenSource approach of this DH project means that they have provided the XML/TEI code on github. 
 So it is easily replicable as a system of DH cataloguing for others.
 
-Explore the catalogue through the following URL: https://www.fihrist.org.uk/
+See [FIHRIST website]({{ https://www.fihrist.org.uk/ }}) for more details on this catalogue.
 
 ----------------------------------------------------------------------------
 
