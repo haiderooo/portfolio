@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: about
+image: images/about-image-irfanhabib-man&environment.jpg
 ---
 
 # About me
