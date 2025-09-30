@@ -26,10 +26,7 @@ author:
 twitter_username: haideralibuluk
 github_username: haiderooo
 logo: # path of site logo, e.g. "/images/logo.png"
-
-# New Line Added Here
-skin: night # Choose 'default', 'plum', 'sea', 'soft', or 'steel'
-
+skin: sea # Choose 'default', 'night', 'plum', 'sea', 'soft', or 'steel'
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
