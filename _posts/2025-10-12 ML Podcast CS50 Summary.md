@@ -11,7 +11,7 @@ tags:
 image: images/banner_home.jpg
 ---
 
-Podcast episode that initiates you into the world of Machine learning and its everyday applications.
+Take aways from a podcast episode that initiates you into the world of Machine learning and its everyday applications.
 <!--more-->
 
 Even before the AI boom, Machine Learning (ML) was gaining a lot of traction,
