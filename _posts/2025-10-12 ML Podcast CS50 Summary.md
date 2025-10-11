@@ -2,7 +2,7 @@
 title: "Machine Learning: the science behind the buzzword."
 excerpt_separator: "<!--more-->"
 categories:
-  - project1
+  - machine learning
 tags:
   - machine_learning
   - podcast
