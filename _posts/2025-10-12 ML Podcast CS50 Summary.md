@@ -2,13 +2,11 @@
 title: "Machine Learning: the science behind the buzzword."
 excerpt_separator: "<!--more-->"
 categories:
-  - machine learning
+  - project1
 tags:
-  - machine_learning
-  - podcast
-  - CS50
-  - digital_humanities
-image: images/banner_home.jpg
+  - experiments
+  - tests
+image: images/ML-Pcast-Banner-1.png
 ---
 
 Take aways from a podcast episode that initiates you into the world of Machine learning and its everyday applications.
