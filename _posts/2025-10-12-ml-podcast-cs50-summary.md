@@ -7,7 +7,6 @@ tags:
   - experiments
   - tests
 image: images/ML-Pcast-Banner-1.png
-published: true
 ---
 
 Take aways from a podcast episode that initiates you into the world of Machine learning and its everyday applications.
@@ -21,7 +20,7 @@ computer science background. So, it was exciting when my professor in a digital 
 assigned CS50 Podcast’s episode on the subject. I was not dissapointed after listening to it.
 
 
-![a random image]({{site.baseurl}}images/ML-Pcast-Summary-1.webp)
+![a random image]({{site.baseurl}}/images/ML-Pcast-Summary-1.webp)
 
 
 
@@ -29,7 +28,7 @@ assigned CS50 Podcast’s episode on the subject. I was not dissapointed after l
 **Introduction**
 
 
-![a random image]({{site.baseurl}}images/ML-Pcast-Summary-2.webp)
+![a random image]({{site.baseurl}}/images/ML-Pcast-Summary-2.webp)
 
 
 This conversation between Harvard faculty computer scientists David J. Malan and Brian Yu is 
@@ -54,7 +53,7 @@ In this respect, ML can be understood as reinforced, supervised and unsupervised
 **Reinforced ML**
 
 
-![a random image]({{site.baseurl}}images/ML-Pcast-Summary-3.webp)
+![a random image]({{site.baseurl}}/images/ML-Pcast-Summary-3.webp)
 
 
 If you have played chess against the computer, you were beaten by a reinforced ML program. 
@@ -68,7 +67,7 @@ For all tactics and strategies it kept on accumulating data and optimizing best 
 **Supervised ML**
 
 
-![a random image]({{site.baseurl}}images/ML-Pcast-Summary-4.jpg)
+![a random image]({{site.baseurl}}/images/ML-Pcast-Summary-4.jpg)
 
 
 Then comes supervised ML, where we send off the program to explore after giving it the data and labels. 
@@ -85,7 +84,7 @@ Don’t we use reinforcement? You would not be wrong. Reinforcement can be invol
 **Unsupervised ML**
 
 
-![a random image]({{site.baseurl}}images/ML-Pcast-Summary-5.webp)
+![a random image]({{site.baseurl}}/images/ML-Pcast-Summary-5.webp)
 
 
 For a reasonable number of possible characters of an alphabet or numerals, you can, however, painstakingly assign labels. 
@@ -99,7 +98,7 @@ you can take the example of open-ended voice command software like Siri and Alex
 **Difference between ML and conventional programming**
 
 
-![a random image]({{site.baseurl}}images/ML-Pcast-Summary-6.png)
+![a random image]({{site.baseurl}}/images/ML-Pcast-Summary-6.png)
 
 
 Don’t get me wrong, even for reinforcement and unsupervised learning you wouldn’t be able to tell exactly how the model has 
@@ -118,7 +117,7 @@ It is the same for the Siris and the Google Translates of the world.
 **Looking ahead**
 
 
-![a random image]({{site.baseurl}}images/ML-Pcast-Summary-7.webp)
+![a random image]({{site.baseurl}}/images/ML-Pcast-Summary-7.webp)
 
 
 In terms of the tech these are interesting times. The explosion of AI and ML technologies have been enabled by the availability 
