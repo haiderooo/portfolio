@@ -7,6 +7,7 @@ tags:
   - experiments
   - tests
 image: images/ML-Pcast-Banner-1.png
+published: true
 ---
 
 Take aways from a podcast episode that initiates you into the world of Machine learning and its everyday applications.
