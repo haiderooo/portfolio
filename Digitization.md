@@ -20,6 +20,7 @@ for digital humanities research.
 ![scanned image of title page of manuscript]({{site.baseurl}}images/manuscript_titlepage.jpg)
 
 
+<u>Introduction to the digitized book</u>
 
 
 To be specific, the digitized manuscript is   کتاب تحفته النّاظِرین المعروف صَحیفَہ  (trans: kitāb-i tuḥfatah al-nāẓirīn al-maʿrūf ṣaḥīfah) which roughly translates into
@@ -39,6 +40,9 @@ written works in the history of Gilgit-Baltistan. Thus the manuscript carries im
 ![generic photo of a book scanner]({{site.baseurl}}images/scanner.jpg)
 
 
+<u>Scanning Process</u>
+
+
 The manuscript was scanned using an overhead book scanner. The scanner took an image of each page (one side of a leaf) one at a time. It created files in png
 format in the attached laptop. Section title or section starting images and page numbers were noted on a page with a pencil along with duplicates and poorer
 quality images. A white colored snake was used to keep pages open. After all pages were scanned, team members re-cropped all images to keep the image within the
@@ -50,6 +54,9 @@ was rescanned and added to the folder. [Click here]({{ site.baseurl }}/project1-
 
 
 ![screenshot of homepage of Escriptorium]({{site.baseurl}}images/escriptorium.png)
+
+
+<u>OCR Process</u>
 
 
 Next, the Optical Character Recognition (OCR) process was conducted on Escriptorium2 which is an open-source platform for OCR/HTR (Hand-written Text Recognition)
@@ -88,6 +95,7 @@ the transcription in ALTO XML format as well as the images of the manuscript.
 ![screenshot of export process of ALTO XML files including images on Escriptorium]({{site.baseurl}}images/export_screenshot.jpg)
 
 
+<u>Test of Accuracy</u>
 
 
 Finally, OCR models were tested for Character Error Rates5 and Character Accuracy Rates6 using a python script comparing the manual transcriptions and the
@@ -96,6 +104,9 @@ digitization/CAR_CER_Comparison/ground_truth_layers) to see the manual transcrip
 (https://github.com/haiderooo/portfolio/tree/master/project1-digitization/CAR_CER_Comparison/model_transcriptions) to see the model transcription layers. Through
 this process the model “kraken_gen2-print-n7m5-union-ft_best” delivered the most optimal results with a CER of 0.165 (CAR: 0.835) and WER7 of 0.47. [Click here
 ({{ "project1-digitization/CAR_CER_Comparison/haider_evaluate_transcription.py" | relative_url }}) to see the python script utilized for the test.
+
+
+<u>Conclusion</u>
 
 
 The process of digitization provided a useful experience in learning multiple technical steps involved in a digital humanities project. At the same time, it
