@@ -2,8 +2,9 @@
 title: Digitization
 permalink: /Digitization/
 layout: page
-image: images/final_banner_digitization.jpg
 ---
+
+![Digitization Banner]({{ site.baseurl }}/images/final_banner_digitization.jpg)
 
 # Digitizing 'The Book of Wonders for the Beholders": a Shia Ismaili manuscript from Gilgit-Baltistan published in 1940.
 
@@ -48,14 +49,13 @@ The process of digitization provided a useful experience in learning multiple te
 
 
 # Project related files:
-ALTO XML files of transcribed manuscript exported from Escriptorium (including images): <{{ '/project1-digitization/README.txt' | relative_url }}>
-Python script for CER, CAR and WER comparison: <{{ 'project1-digitization/CAR_CER_Comparison/haider_evaluate_transcription.py' | relative_url }}>
-Ground truth (manual transcription text files): <{{ '/project1-digitization/CAR_CER_Comparison/ground_truth_layers/' | relative_url }}>
-Model transcription layers (text files): <{{ '/project1-digitization/CAR_CER_Comparison/model_transcriptions/' | relative_url }}>
-Segmentation guidelines: <{{ '/project1-digitization/segmentation_guidelines_DH25.pdf
-' | relative_url }}>
-Manuscript metadata: <{{ '/project1-digitization/Rasail_Metadata.txt' | relative_url }}>
-Table of contents (csv file): <{{ '/project1-digitization/Rasail_Group_Sheet2.csv' | relative_url }}>
+- [ALTO XML files of transcribed manuscript exported from Escriptorium (including images)]({{ '/project1-digitization/README.txt' | relative_url }})
+- [Python script for CER, CAR and WER comparison]({{ '/project1-digitization/CAR_CER_Comparison/haider_evaluate_transcription.py' | relative_url }})
+- [Ground truth (manual transcription text files)]({{ '/project1-digitization/CAR_CER_Comparison/ground_truth_layers/' | relative_url }})
+- [Model transcription layers (text files)]({{ '/project1-digitization/CAR_CER_Comparison/model_transcriptions/' | relative_url }})
+- [Segmentation guidelines]({{ '/project1-digitization/segmentation_guidelines_DH25.pdf' | relative_url }})
+- [Manuscript metadata]({{ '/project1-digitization/Rasail_Metadata.txt' | relative_url }})
+- [Table of contents (csv file)]({{ '/project1-digitization/Rasail_Group_Sheet2.csv' | relative_url }})
 
 
 # EndNotes:
