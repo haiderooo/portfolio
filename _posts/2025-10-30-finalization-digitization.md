@@ -11,6 +11,9 @@ image: images/done_banner.jpg
 
 # It's done (is it really?)
 
+"<!--more-->"
+
+
 Digitization project for the book code named Rasail_1940 and titled 'kitāb-i tuḥfatah al-nāẓirīn al-maʿrūf ṣaḥīfah' has been finalized by team Rasail
 as part of the Digital Humanities course (2025) at AKU-ISMC's MA Muslim Cultures programme. We scanned and digitized this book written in Persian and published
 in 1940 using Escriptorium platform and machine learning models.
