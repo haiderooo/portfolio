@@ -27,6 +27,6 @@ presentation of the project through a github website. It was demanding for some 
 learning. Onwards to Mini-Project2!!! Oh, wait, first we shall expect some feedback!
 
 
-![write a caption here]({{site.baseurl}}images/feedback_meme.png)
+![feedback meme]({{site.baseurl}}images/feedback_meme.png)
 
 
