@@ -1,8 +1,9 @@
 ---
-image: images/digitization_banner.png
 title: Digitization
 permalink: /Digitization/
 layout: page
+image: images/digitization_banner.png
+
 ---
 
 
