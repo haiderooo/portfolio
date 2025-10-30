@@ -1,5 +1,5 @@
 ---
-title: "Finilized Digitization of 1940 published Book written in Persian"
+title: "Finilized Digitization of 1940 published book written in Persian"
 excerpt_separator: "<!--more-->"
 categories:
   - project1
