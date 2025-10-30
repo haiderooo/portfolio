@@ -5,13 +5,6 @@ layout: page
 image: images/final_banner_digitization.jpg
 ---
 
----
-title: Digitization
-permalink: /Digitization/
-layout: page
-image: images/final_banner_digitization.jpg
----
-
 # Digitizing 'The Book of Wonders for the Beholders": a Shia Ismaili manuscript from Gilgit-Baltistan published in 1940.
 
 
