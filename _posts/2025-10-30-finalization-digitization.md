@@ -11,7 +11,7 @@ image: images/done_banner.jpg
 
 # It's done (is it really?)
 
-"<!--more-->"
+<!--more-->
 
 
 Digitization project for the book code named Rasail_1940 and titled 'kitāb-i tuḥfatah al-nāẓirīn al-maʿrūf ṣaḥīfah' has been finalized by team Rasail
