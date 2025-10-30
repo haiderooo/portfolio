@@ -5,7 +5,7 @@ layout: page
 image: images/digitization_banner.png
 ---
 
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+<center>
 
 
 # Digitizing 'The Book of Wonders for the Beholders": a Shia Ismaili manuscript from Gilgit-Baltistan published in 1940.
@@ -72,4 +72,4 @@ The process of digitization provided a useful experience in learning multiple te
 7. Word Error Rates. <https://haiderooo.github.io/portfolio/project1/2025/10/21/Eval_OCR.html>
 8. FIHRIST PROJECT. <https://haiderooo.github.io/portfolio/summary%20of%20a%20dh%20project/2025/09/16/about-fihrist.html>
 
-</div>
+</center>
