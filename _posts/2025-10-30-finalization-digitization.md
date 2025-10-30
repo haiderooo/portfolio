@@ -19,7 +19,7 @@ as part of the Digital Humanities course (2025) at AKU-ISMC's MA Muslim Cultures
 in 1940 using Escriptorium platform and machine learning models.
 
 
-[Click here]({{ site.baseurl }}/Digitization/) to read the extended project description and find all relevant files and references.
+[Click here]({{site.baseurl}}Digitization/) to read the extended project description and find all relevant files and references.
 
 
 In the course of this project we learnt multiple steps of a machine learning OCR based digitization process for a non-latin script text as well as
