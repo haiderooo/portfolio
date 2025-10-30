@@ -98,7 +98,7 @@ the transcription in ALTO XML format as well as the images of the manuscript.
 Finally, OCR models were tested for Character Error Rates<sup>5</sup> and Character Accuracy Rates<sup>6</sup> using a python script comparing the manual
 transcriptions and the
 transcriptions conducted by the model. 
-[Click here](https://github.com/haiderooo/portfolio/tree/master/project1digitization/CAR_CER_Comparison/ground_truth_layers) to see the manual transcription text
+[Click here](https://github.com/haiderooo/portfolio/tree/master/project1-digitization/CAR_CER_Comparison/ground_truth_layers) to see the manual transcription text
 files (ground truth) and 
 [here](https://github.com/haiderooo/portfolio/tree/master/project1-digitization/CAR_CER_Comparison/model_transcriptions) to see the model transcription layers.
 Through this process the model “kraken_gen2-print-n7m5-union-ft_best” delivered the most optimal results with a CER of 0.165 (CAR: 0.835) and WER<sup>7</sup> of 0.47. 
