@@ -15,7 +15,11 @@ manuscripts from Central and South Asia written in the mid-20th century. On the 
 for digital humanities research. 
 
 
+
+
 ![scanned image of title page of manuscript]({{site.baseurl}}images/manuscript_titlepage.jpg)
+
+
 
 
 To be specific, the digitized manuscript is   کتاب تحفته النّاظِرین المعروف صَحیفَہ  (trans: kitāb-i tuḥfatah al-nāẓirīn al-maʿrūf ṣaḥīfah) which roughly translates into
@@ -30,6 +34,8 @@ time of publication. Additionally, the work is compiled by Qudrat Ullah Baig and
 written works in the history of Gilgit-Baltistan. Thus the manuscript carries importance as a historical document for Gilgit-Baltistan in general, beyond Ismailism.
 
 
+
+
 ![generic photo of a book scanner]({{site.baseurl}}images/scanner.jpg)
 
 
@@ -39,6 +45,8 @@ quality images. A white colored snake was used to keep pages open. After all pag
 boundaries of each page and saved it as the same image. Later, the team went through all images and one page was detected to be missing from the scanned images. It
 was rescanned and added to the folder. [Click here]({{ site.baseurl }}/project1-digitization/Rasail_Metadata.txt) to access the Metadata and [here]({{ site.baseurl
 }}/project1-digitization/Rasail_Group_Sheet2.csv) to see a csv of table of contents of the manuscript.
+
+
 
 
 ![screenshot of homepage of Escriptorium]({{site.baseurl}}images/escriptorium.png)
@@ -57,10 +65,16 @@ previously by the OpenITI team was used to run automatic segmentation. Then the 
 according to the guidelines.
 
 
+
+
 ![screenshot of a segmentation process on Escriptorium]({{site.baseurl}}images/segmentation.png)
 
 
+
+
 ![screenshot of a transcription process on Escriptorium]({{site.baseurl}}images/transcription.jpg)
+
+
 
 
 Second, an automatic transcription was applied on each document using a kraken based model. This was followed by manual transcription of each page. Third, the
@@ -72,6 +86,8 @@ the transcription in ALTO XML format as well as the images of the manuscript.
 
 
 ![screenshot of export process of ALTO XML files including images on Escriptorium]({{site.baseurl}}images/export_screenshot.jpg)
+
+
 
 
 Finally, OCR models were tested for Character Error Rates5 and Character Accuracy Rates6 using a python script comparing the manual transcriptions and the
