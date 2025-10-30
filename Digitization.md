@@ -1,8 +1,8 @@
 ---
+image: images/final_banner_digitization.jpg
 title: Digitization
 permalink: /Digitization/
 layout: page
-image: images/final_banner_digitization.jpg
 ---
 
 
@@ -12,7 +12,7 @@ image: images/final_banner_digitization.jpg
 This project aimed at applying machine learning1 to digitize a manuscript of Shia Ismaili religious scholarship from South Asia written in Persian. By training a model and applying it on the manuscript, the efficacy of machine learning for digitization of Persian manuscripts was increased as its scope widened to include manuscripts from Central and South Asia written in the mid-20th century. On the other hand, the project also preserved the manuscript itself and made it available for digital humanities research. 
 
 
-![Image of the manuscripts title page]({{ site.baseurl }}/images/manuscript_titlepage.jpg)
+!({{ site.baseurl }}/images/manuscript_titlepage.jpg)
 
 
 To be specific, the digitized manuscript is   کتاب تحفته النّاظِرین المعروف صَحیفَہ  (trans: kitāb-i tuḥfatah al-nāẓirīn al-maʿrūf ṣaḥīfah) which roughly translates into “Selection of Famous Pages from the Book of Wonders for the Beholders”. This book is a commentary on selections of works originally authored by Syed Sohrab Badakshani. The manuscript gives almost a step-by-step guide to theology, cosmology and ethics in the Central Asian and northern South Asian Ismaili tradition. It was an official publication of the Shia Ismaili institutions’ representatives in Gilgit. Gilgit town was the administrative and commercial center of the greater area that is now Gilgit-Baltistan. Being at the confluence of South and Central Asia, Islamic scholarship here at the time reflected the influence of traditions and institutions from both regions. This manuscript is published under the ambit of the modern Ismaili institutions, wherein, the Gilgit-Baltistan area was connected to the South Asian center at Bombay and Karachi. Whereas, its content addresses works originating in the Badakshan and broader Central Asian region. It is an important text in revealing the point of view of Ismaili scholars of Gilgit-Baltistan on theology, and one sanctioned by the Ismaili institutions, around the time of publication. Additionally, the work is compiled by Qudrat Ullah Baig and Ghulam Uddin who are noted as two of the three earliest scholars with extant written works in the history of Gilgit-Baltistan. Thus the manuscript carries importance as a historical document for Gilgit-Baltistan in general, beyond Ismailism.
