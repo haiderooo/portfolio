@@ -1,8 +1,8 @@
 ---
-title: "Finilized Digitization of 1940 published book written in Persian"
+title: "Colonialism as signifier on social media users' response to Gilgit-Baltistan Land Reforms Act 2025"
 excerpt_separator: "<!--more-->"
 categories:
-  - project1
+  - project2
 tags:
   - experiments
   - tests
