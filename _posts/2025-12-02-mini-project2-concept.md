@@ -23,10 +23,10 @@ This project analyzes public opinion on social media in Gilgit-Baltistan regardi
 # Background
 
 
-Gilgit-Baltistan is one of the two Pakistan-administered regions under the Kashmir dispute. Amidst long-standing anxieties about resource capture of land by the Pakistani state, a new land tenure law called Gilgit-Baltistan Land Reforms Act 2025 was instituted by the local legislature Gilgit-Baltistan Assembly.x<sup>1</sup> The aforementioned legislative body faces serious accusations of being controlled more by Islamabad than by local people.x<sup>2</sup> This Act, while abstractly recognizing the collective ownership of non-private land (e.g. meadows, riverbeds, forests and barren areas etc.), strips the control of that land completely from the local populace. It declares all non-private land, outside of the village boundaries, as ‘impartible’ contradicting the local understanding of it being divided amongst villages, tribes and families. Moreover, the demarcation of the village boundary is not clear, making the Act an instrument of territorialization instead of reform.x<sup>3</sup>
+Gilgit-Baltistan is one of the two Pakistan-administered regions under the Kashmir dispute. Amidst long-standing anxieties about resource capture of land by the Pakistani state, a new land tenure law called Gilgit-Baltistan Land Reforms Act 2025 was instituted by the local legislature Gilgit-Baltistan Assembly.<sup>1</sup> The aforementioned legislative body faces serious accusations of being controlled more by Islamabad than by local people.<sup>2</sup> This Act, while abstractly recognizing the collective ownership of non-private land (e.g. meadows, riverbeds, forests and barren areas etc.), strips the control of that land completely from the local populace. It declares all non-private land, outside of the village boundaries, as ‘impartible’ contradicting the local understanding of it being divided amongst villages, tribes and families. Moreover, the demarcation of the village boundary is not clear, making the Act an instrument of territorialization instead of reform.<sup>3</sup>
 
 
-Owing to the lack of constitutional integration of GB in Pakistan and its continued economic and political marginalization, among other reasons, the use of colonialism as signifier has been gaining prevalence over decades.x<sup>4</sup> This new law has prompted local intellectuals and activists to draw analogies to settler-colonial contexts, especially those of North America. As a result, activists and social movement organizations are expressing resistance and calling for the revoking of the law. The Gilgit-Baltistan Awami Action Committee (GBAAC) is the leading broad-based social movement organization of Gilgit-Baltistan which is also leading resistance to the Act.x<sup>5</sup> 
+Owing to the lack of constitutional integration of GB in Pakistan and its continued economic and political marginalization, among other reasons, the use of colonialism as signifier has been gaining prevalence over decades.<sup>4</sup> This new law has prompted local intellectuals and activists to draw analogies to settler-colonial contexts, especially those of North America. As a result, activists and social movement organizations are expressing resistance and calling for the revoking of the law. The Gilgit-Baltistan Awami Action Committee (GBAAC) is the leading broad-based social movement organization of Gilgit-Baltistan which is also leading resistance to the Act.<sup>5</sup> 
 
 
 # Subject of research
@@ -98,8 +98,10 @@ This research chose not to include statements and comments of key oppositional p
 
 # References:
 
-1. Dawn News, “GB Land Reforms.”
-2. Ehsan Ali
-3. Nadia Ali
-4. Sokefeld
-5. Nisar Ali
+1. Newspaper, From the. “GB Land Reforms.” Dawn, June 24, 2025. https://www.dawn.com/news/1919541.
+2. Memon, Qalandar Bux, Sonia Qadir, and Haider Ali. “The Lawyer vs the Oligarchy: An Interview with Ehsan Ali Advocate.” Naked Punch Review (blog), n.d. https://nakedpunch.com/the-lawyer-vs-the-oligarchy-an-interview-with-ehsan-ali-advocate/.
+3. Ali, Nadia. “From Khalisa Sarkar Land to Land Reforms: Legal Liminality, State Control, and Resistance in Gilgit-Baltistan, Pakistan.” Third World Quarterly, October 22, 2025, 1–21. https://doi.org/10.1080/01436597.2025.2566959.
+4. Sōkefeld, Martin. “From Colonialism to Postcolonial Colonialism: Changing Modes of Domination in the Northern Areas of Pakistan.” The Journal of Asian Studies 64, no. 4 (2005): 939–73.
+5. Ali, Nisar. “Increase in Subsidized Wheat Prices Leads to Fears of Protests in Pakistan’s North.” Arab News, December 24, 2023. https://arab.news/5d6fm.
+
+
