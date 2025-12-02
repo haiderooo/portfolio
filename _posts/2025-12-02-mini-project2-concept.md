@@ -98,10 +98,10 @@ This research chose not to include statements and comments of key oppositional p
 
 # References:
 
-1. Newspaper, From the. “GB Land Reforms.” Dawn, June 24, 2025. https://www.dawn.com/news/1919541.
-2. Memon, Qalandar Bux, Sonia Qadir, and Haider Ali. “The Lawyer vs the Oligarchy: An Interview with Ehsan Ali Advocate.” Naked Punch Review (blog), n.d. https://nakedpunch.com/the-lawyer-vs-the-oligarchy-an-interview-with-ehsan-ali-advocate/.
-3. Ali, Nadia. “From Khalisa Sarkar Land to Land Reforms: Legal Liminality, State Control, and Resistance in Gilgit-Baltistan, Pakistan.” Third World Quarterly, October 22, 2025, 1–21. https://doi.org/10.1080/01436597.2025.2566959.
-4. Sōkefeld, Martin. “From Colonialism to Postcolonial Colonialism: Changing Modes of Domination in the Northern Areas of Pakistan.” The Journal of Asian Studies 64, no. 4 (2005): 939–73.
-5. Ali, Nisar. “Increase in Subsidized Wheat Prices Leads to Fears of Protests in Pakistan’s North.” Arab News, December 24, 2023. https://arab.news/5d6fm.
+1. Newspaper, From the. “GB Land Reforms.” Dawn, June 24, 2025. <https://www.dawn.com/news/1919541>
+2. Memon, Qalandar Bux, Sonia Qadir, and Haider Ali. “The Lawyer vs the Oligarchy: An Interview with Ehsan Ali Advocate.” Naked Punch Review (blog), n.d. <https://nakedpunch.com/the-lawyer-vs-the-oligarchy-an-interview-with-ehsan-ali-advocate/>
+3. Ali, Nadia. “From Khalisa Sarkar Land to Land Reforms: Legal Liminality, State Control, and Resistance in Gilgit-Baltistan, Pakistan.” Third World Quarterly, October 22, 2025, 1–21. <https://doi.org/10.1080/01436597.2025.2566959>
+4. Sōkefeld, Martin. “From Colonialism to Postcolonial Colonialism: Changing Modes of Domination in the Northern Areas of Pakistan.” The Journal of Asian Studies 64, no. 4 (2005): 939–73. <https://www.jstor.org/stable/25075905>
+5. Ali, Nisar. “Increase in Subsidized Wheat Prices Leads to Fears of Protests in Pakistan’s North.” Arab News, December 24, 2023. <https://arab.news/5d6fm>
 
 
