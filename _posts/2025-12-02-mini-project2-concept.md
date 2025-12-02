@@ -1,5 +1,5 @@
 ---
-title: "Colonialism as signifier on social media users' response to Gilgit-Baltistan Land Reforms Act 2025"
+title: "Colonialism as signifier in social media users' response to Gilgit-Baltistan Land Reforms Act 2025"
 excerpt_separator: "<!--more-->"
 categories:
   - project2
