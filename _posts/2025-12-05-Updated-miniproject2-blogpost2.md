@@ -32,16 +32,16 @@ To analyze users’ expression of opinion on the GB Land Reforms Act 2025 this p
 Links to pages with search operators applied unless specified otherwise:
 
 Gilgit-Baltistan Assembly (search operator not applied)
-https://www.facebook.com/gblagb
+[https://www.facebook.com/gblagb](https://www.facebook.com/gblagb)
 
 Pamir Times
-https://www.facebook.com/profile/100064710099601/search/?q=land%20reforms 
+[https://www.facebook.com/profile/100064710099601/search/?q=land%20reforms](https://www.facebook.com/profile/100064710099601/search/?q=land%20reforms )
 
 Ibex Media Network
-https://www.facebook.com/profile/100064048422419/search/?q=land%20reforms 
+[https://www.facebook.com/profile/100064048422419/search/?q=land%20reforms](https://www.facebook.com/profile/100064048422419/search/?q=land%20reforms)
 
 Progressive Gilgit-Baltistan
-https://www.facebook.com/profile/100063700377023/search/?q=%D9%84%DB%8C%D9%86%DA%88%20%D8%B1%DB%8C%D9%81%D8%A7%D8%B1%D9%85%D8%B2
+[https://www.facebook.com/profile/100063700377023/search/?q=%D9%84%DB%8C%D9%86%DA%88%20%D8%B1%DB%8C%D9%81%D8%A7%D8%B1%D9%85%D8%B2](https://www.facebook.com/profile/100063700377023/search/?q=%D9%84%DB%8C%D9%86%DA%88%20%D8%B1%DB%8C%D9%81%D8%A7%D8%B1%D9%85%D8%B2)
 
 These pages were selected to cover the most popular social media platforms of Gilgit-Baltistan as well as official platforms and oppositional platforms. To cover a greater diversity of opinion, a wider corpus would have been a stronger dataset, such as the corpus suggested in the last blog post. Due to time limitations of the project, that is not possible. Nonetheless, the current corpus is strong in terms of suitability for a python applied DH text analysis project. 
 
