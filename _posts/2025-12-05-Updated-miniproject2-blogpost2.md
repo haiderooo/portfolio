@@ -70,8 +70,7 @@ Secondly, separate text files for each post will be created to all comments on e
 Third, the single document created in the beginning (post anonymization, filtering and translation) will be kept to allow for analyses that may suit a single file instead of multiple. 
 
 <u>Search terms and AI text mining</u>
-The single file document will be uploaded to an AI LLM GPT to extract words in the document that may describe colonialism. Core search words before GPT’s extraction are:
-1) Colonialism, 2) Occupation and 3) Dispossession. The list of search words extracted by the GPT and the core search words will be referred to as simply ‘search terms’. These will then be used for further analysis as described below. 
+The single file document will be uploaded to an AI LLM GPT to extract words in the document that may describe colonialism. Core search words before GPT’s extraction are: "Colonialism", "Occupation" and "Dispossession." The list of search words extracted by the GPT and the core search words will be referred to as simply ‘search terms’. These will then be used for further analysis as described below. 
 
 <u>Word Frequency</u>
 The first analysis will be to run a word frequency query of the list of search terms.
