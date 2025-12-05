@@ -35,7 +35,7 @@ Gilgit-Baltistan Assembly (search operator not applied)
 [https://www.facebook.com/gblagb](https://www.facebook.com/gblagb)
 
 Pamir Times
-[https://www.facebook.com/profile/100064710099601/search/?q=land%20reforms](https://www.facebook.com/profile/100064710099601/search/?q=land%20reforms )
+[https://www.facebook.com/profile/100064710099601/search/?q=land%20reforms](https://www.facebook.com/profile/100064710099601/search/?q=land%20reforms)
 
 Ibex Media Network
 [https://www.facebook.com/profile/100064048422419/search/?q=land%20reforms](https://www.facebook.com/profile/100064048422419/search/?q=land%20reforms)
