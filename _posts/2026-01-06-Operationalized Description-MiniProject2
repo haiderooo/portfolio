@@ -1,5 +1,5 @@
 ---
-title: "Operationalized research description: Colonialism as signifier in social media users' response to Gilgit-Baltistan Land Reforms Act 2025"
+title: "Operationalized: Colonialism as signifier in social media users' response to Gilgit-Baltistan Land Reforms Act 2025"
 excerpt_separator: "<!--more-->"
 categories:
   - project2
@@ -92,7 +92,10 @@ These labels were fed into the interpretation step in exploratory BERTopic model
 
 Words shortlisted manually by the researcher from looking at representative comments were used alongside theory guided keywords to run a Guided BERTopic modelling. See below list of seed words utilized:
 
-seed_topic_list = [ ["colonial", "نوآبادیاتی", "قبضہ", "imposed law", "حکمرانی"], ["puppet", "کٹھ پتلی", "fake assembly", "غیر نمائندہ", "غلام"], ["facilitators", "مقامی اشرافیہ", "beneficiaries", "supporters", "سہولت کار", "collaborators", "حکم پر چلتے", "gaddar", "dalal", "wafaq parast", "وفاق پرست"]]
+seed_topic_list:
+- "colonial", "نوآبادیاتی", "قبضہ", "imposed law", "حکمرانی" 
+- "puppet", "کٹھ پتلی", "fake assembly", "غیر نمائندہ", "غلام"
+- "facilitators", "مقامی اشرافیہ", "beneficiaries", "supporters", "سہولت کار", "collaborators", "حکم پر چلتے", "gaddar", "dalal", "wafaq parast", "وفاق پرست"
 
 Note that, stopwords used in the previous stage were also accounted for. 
 
