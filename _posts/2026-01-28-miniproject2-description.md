@@ -63,7 +63,7 @@ were selected (2 posts out of 112 were disqualified later). See Table 1 below fo
 
 
 Table 1: Pages and Number of Posts
-![t1 no of posts per page]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+![t1 no of posts per page]({{site.baseurl}}images/t1)
 
 
 
@@ -92,7 +92,7 @@ raw corpus.
 
 
 Table 2: Structure of raw data csv file.
-![t2 rows raw data csv]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+![t2 rows raw data csv]({{site.baseurl}}images/t2_5_rows_raw.png)
 
 
 
@@ -111,7 +111,7 @@ consisted of only non-human language objects.
 See Table 3 below for structure of clean corpus.
 
 Table 3: Structure of clean data csv file.
-![t3 rows clean data csv]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+![t3 rows clean data csv]({{site.baseurl}}images/t3__rows_clean.png)
 
 
 
@@ -137,11 +137,11 @@ data.
 
 
 Table 4, 5 and 6: Overview Descriptive Statistics of Corpus, Distribution of Comments by Page and Descriptive Statistics of Text in Comment_Text Column.
-![t4 5 and 6]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+![t4 5 and 6]({{site.baseurl}}images/t4_5_6.png)
 
 
 Table 7 and 8: Distribution of Comments by Posts and Distribution of Comments by Users.
-![t7 and 8]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+![t7 and 8]({{site.baseurl}}images/At7_8.png)
 
 
 
