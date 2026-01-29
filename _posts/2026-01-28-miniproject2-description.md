@@ -302,4 +302,5 @@ Amongst some things that this research missed from within the data was accountin
 
 # Credits
 Banner Image: Edited Image. Photograph by Salim Khan, edited to add text.
+
 Text on Banner Image: Verse from poem by Abdul Hafeez Shakir. Retrieved from [https://umangpoetry.org/poem/dheere-dheere-aur-kis-ne/ ](https://umangpoetry.org/poem/dheere-dheere-aur-kis-ne/)
