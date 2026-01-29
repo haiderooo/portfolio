@@ -1,6 +1,6 @@
 ---
-title: Project2 Description
-permalink: /projects/
+title: Project2
+permalink: /project2/
 layout: page
 image: images/edited-banner.png
 ---
