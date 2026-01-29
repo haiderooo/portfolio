@@ -63,6 +63,7 @@ were selected (2 posts out of 112 were disqualified later). See Table 1 below fo
 
 
 Table 1: Pages and Number of Posts
+
 ![t1 no of posts per page]({{site.baseurl}}images/t1.png)
 
 
