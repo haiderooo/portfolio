@@ -249,9 +249,14 @@ organized around support for leaders of resistance movements and parties in Gilg
 Baltistan as colonial. There was at least one topic dominated by discussion around a power generation project in Hunza of the for-profit side of Aga Khan
 Development Network called the Aga Khan Fund for Economic Development. Comments showed a polarization of opinions between some people defending the project and
 others considering it a project of capitalist extraction. The representative comments of four other topics showed marked presence of signifiers of colonialism,
-especially through the terming of the GB government, GB Assembly and GB politicians as collaborators. See Figure 9 below for identification of these topics which
+especially through the terming of the GB government, GB Assembly and GB politicians as collaborators. See Figure 10 below for identification of these topics which
 show greater presence of signifiers of colonialism. Note that the clustering of BERTopic did not always show meaningful clusters, at least as revealed by the
-representative comments with representative comments of 4 topics (0, 7, 10, 14, 15) dominated by ‘social noise.’  
+representative comments with representative comments of 4 topics (0, 7, 10, 14, 15) dominated by ‘social noise.’
+
+
+Figure 10: Comparison between Topics for Prevalence of Signifiers of Colonialism.
+![figure 10]({{site.baseurl}}images/3_Topic_Colonial_Density.png)
+
 
 To sum up, this study showed that the signifiers of colonialism are present in facebook comments on posts relevant to the Gilgit-Baltistan Land Reforms Act 2025.
 They are thin within the collection of total words but substantially present within a section of users.
