@@ -8,7 +8,7 @@ tags:
   - social media topic modelling
   - social media research
   - gilgit-baltistan
-image: images/protest.jpg
+image: images/banner_credit_salim.jpg
 ---
 
 Finalized project description: analysis of 1439 facebook comments from 110 posts on public pages.
