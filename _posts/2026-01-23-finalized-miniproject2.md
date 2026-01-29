@@ -1,5 +1,5 @@
 ---
-title: "Project Finalized: Colonialism as signifier in social media discourse around Gilgit-Baltistan Land Reforms Act 2025"
+title: "Project Complete and Findings Out: Social Media Discourse Study on Colonialism as Signifier in Gilgit-Baltistan"
 excerpt_separator: "<!--more-->"
 categories:
   - project2
