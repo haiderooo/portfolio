@@ -186,4 +186,4 @@ They are thin within the collection of total words but substantially present wit
 ## Conclusion
 
 This research investigated the use of signifiers of colonialism invoked in discourse around the Gilgit-Baltistan Land Reforms Act 2025 in comments on posts
-relevant to this discourse on public facebook pages catering to audiences in Gilgit-Baltistan. An analysis of 1439 comments from 110 posts revealed that there
+relevant to this discourse on public facebook pages catering to audiences in Gilgit-Baltistan. An analysis of 1439 comments from 110 posts revealed that there is presence of signifiers of colonialism in this discourse which takes up a small percentage of total word volume but is substantially present across comments. It is mostly present in the form of terming of Gilgit-Baltistan's assembly, government and mainstream politicians as colonial collaborators. 
