@@ -1,8 +1,8 @@
 ---
-title: "Description: Colonialism as signifier in social media discourse around Gilgit-Baltistan Land Reforms Act 2025"
+title: Colonialism as signifier in social media discourse around Gilgit-Baltistan Land Reforms Act 2025"
 excerpt_separator: "<!--more-->"
 categories:
-  - projects
+  - project2
 tags:
   - digital humanities
   - social media topic modelling
@@ -12,42 +12,35 @@ tags:
 image: images/protest.jpg
 ---
 
-Who worshipped the nation? And who worshipped the gods of money?
-We’ve seen everyone here – the courtiers and the leaders!
-
-Introduction
 This study analyzed facebook comments between 2023-25 on public pages prominent in Gilgit-Baltistan to investigate the use of colonialism as signifier in discourse around a recently instituted property law called Gilgit-Baltistan Land Reforms Act 2025. 
 
-Context
-Gilgit-Baltistan (GB) is a disputed territory between India and Pakistan. At the time of the partition of India, GB was a territory of the Kashmir Dogra kingdom which was a vassal state of the British Raj. In 1947, a rebellion by local military officers 
-led to liberation of the region from colonial rule. The revolutionary leadership, however, handed over GB to Pakistan. Yet, the region has since remained as one part of the former Kashmir territories under administration of Pakistan without formal integration. 
-The region’s 2.3 million people don’t have access to national representative forums. 
+<!--more→
 
-Within this geopolitical arrangement, Pakistani rule has meant a continuation of colonial structures leading to long-standing grievances. In other words, GB has remained an internal colony of Pakistan. Over the decades, people of GB have increasingly come to 
-use ‘colonialism as signifier’ for this ‘colonialism as structure.’ Within global literature, land ownership and control regimes are considered central to understanding of colonialism. In GB, land regimes imposed from above by Pakistan have remained ambiguous 
-on the question of communal ownership. Under Kashmir Dogra rule, communal land or land outside of village boundaries, in some parts of GB, had been demarcated as state land. The operative law was called ‘Khalisa Sarkar.’ It is widely understood by local people 
-that the Khalisa Sarkar regime has been null and void with the end of Dogra rule. Thus, communal property was governed through a mix of indigenous customary law and Pakistan’s postcolonial land regimes, with conflicts arising between different regimes as well. 
-Local legislative bodies were missing in Gilgit-Baltistan, until a Gilgit-Baltistan Assembly was formed in 2009 with authority over limited subjects. In 2025, as part of Pakistani state’s wider push for intensifying extractive mechanisms, a new law was produced 
-through the GB Assembly called Gilgit-Baltistan Land Reforms Act 2025. This law consolidates the control over all communal lands in the hands of the state while nominally recognizing collective ownership of all non-private land by the people of GB. 
-When the law was scheduled for discussion in the GB Assembly, local activists began agitating widely. Many of them were arrested and jailed. At the same time, widespread opposition was expressed on social media. Within this discourse, semantic signifiers of 
-colonialism could be observed. These signifiers ranged from likening Pakistan’s rule to that of the former Dogra rule and even the East India Company to branding members of the GB Assembly as traitors (قوم کے غدار) and as collaborators (صہولت کار). The question of 
-land has long animated the politics of GB, with anxieties of demographic change and dispossession of resources. In the last two decades, the anxieties around land have shaped people’s signifying of the relationship between Pakistan and GB as colonialism. This 
-research is an attempt to account for colonialism as a signifier on social media.
+## Introduction
+This study analyzed facebook comments between 2023-25 on public pages prominent in Gilgit-Baltistan to investigate the use of colonialism as signifier in discourse around a recently instituted property law called Gilgit-Baltistan Land Reforms Act 2025. 
+
+## Context
+Gilgit-Baltistan (GB) is a disputed territory between India and Pakistan. At the time of the partition of India, GB was a territory of the Kashmir Dogra kingdom which was a vassal state of the British Raj. In 1947, a rebellion by local military officers led to liberation of the region from colonial rule. The revolutionary leadership, however, handed over GB to Pakistan. Yet, the region has since remained as one part of the former Kashmir territories under administration of Pakistan without formal integration. The region’s 2.3 million people don’t have access to national representative forums. 
+	Within this geopolitical arrangement, Pakistani rule has meant a continuation of colonial structures leading to long-standing grievances. In other words, GB has remained an internal colony of Pakistan. Over the decades, people of GB have increasingly come to use ‘colonialism as signifier’ for this ‘colonialism as structure.’ Within global literature, land ownership and control regimes are considered central to understanding of colonialism. In GB, land regimes imposed from above by Pakistan have remained ambiguous on the question of communal ownership. Under Kashmir Dogra rule, communal land or land outside of village boundaries, in some parts of GB, had been demarcated as state land. The operative law was called ‘Khalisa Sarkar.’ It is widely understood by local people that the Khalisa Sarkar regime has been null and void with the end of Dogra rule. Thus, communal property was governed through a mix of indigenous customary law and Pakistan’s postcolonial land regimes, with conflicts arising between different regimes as well. Local legislative bodies were missing in Gilgit-Baltistan, until a Gilgit-Baltistan Assembly was formed in 2009 with authority over limited subjects. In 2025, as part of Pakistani state’s wider push for intensifying extractive mechanisms, a new law was produced through the GB Assembly called Gilgit-Baltistan Land Reforms Act 2025. This law consolidates the control over all communal lands in the hands of the state while nominally recognizing collective ownership of all non-private land by the people of GB. 
+	When the law was scheduled for discussion in the GB Assembly, local activists began agitating widely. Many of them were arrested and jailed. At the same time, widespread opposition was expressed on social media. Within this discourse, semantic signifiers of colonialism could be observed. These signifiers ranged from likening Pakistan’s rule to that of the former Dogra rule and even the East India Company to branding members of the GB Assembly as traitors (قوم کے غدار) and as collaborators (صہولت کار). The question of land has long animated the politics of GB, with anxieties of demographic change and dispossession of resources. In the last two decades, the anxieties around land have shaped people’s signifying of the relationship between Pakistan and GB as colonialism. This research is an attempt to account for colonialism as a signifier on social media.
 
 
-Research Question
+## Research Question
 Is there substantial signifying of the relationship between Pakistan and Gilgit-Baltistan as colonial in social media discourse around Gilgit-Baltistan Land Reforms Act 2025?
 
 
-Corpus
-Corpus selection
+## Corpus
+
+<u>Corpus selection</u>
+
 This research looked at facebook comments on public posts relevant to GBLRA 2025 made by prominent social media pages catering to audiences in GB. The selection of facebook as the target platform was driven by its number of users and percentage of engagement via text. X and Threads favor text content more than Facebook. However, in 2025 the audience of Facebook in Pakistan is 44.9 Million (based on ad reach stats) as compared to X’s user count of 1.9 Million, with Threads trailing behind significantly. Therefore, Facebook remains the most widely used “text-heavier” platform in Pakistan.
-For this research, four (4) prominent public pages were selected. These include Gilgit-Baltistan Assembly, Pamir Times, Progressive Gilgit - Baltistan and Ibex Media Network. Gilgit-Baltistan Assembly with 27k followers is the official page of that government body, sharing official updates on legislative activities such as for the GBLRA 2025. Pamir Times with 634k followers is a pioneering social media news page, known as a middle of the road platform. Progressive Gilgit - Baltistan with 41k followers is the leading left-leaning social media news page and Ibex Media Network with a follower count of 943k followers is the leading social media news page of GB.
-To select posts from which comments could be scraped, this research used the search terms ‘Land Reforms’ and ‘لینڈ ریفارمز’ to find relevant posts. Qualifiers applied for selection included selection of posts made by the pages and posts with a comment count of 1 or more. This selection was done manually. As a result, 112 posts were selected with 2 posts disqualified later. See Table 1 below for the number of posts selected for each page. 
+	For this research, four (4) prominent public pages were selected. These include Gilgit-Baltistan Assembly, Pamir Times, Progressive Gilgit - Baltistan and Ibex Media Network. Gilgit-Baltistan Assembly with 27k followers is the official page of that government body, sharing official updates on legislative activities such as for the GBLRA 2025. Pamir Times with 634k followers is a pioneering social media news page, known as a middle of the road platform. Progressive Gilgit - Baltistan with 41k followers is the leading left-leaning social media news page and Ibex Media Network with a follower count of 943k followers is the leading social media news page of GB.
+	To select posts from which comments could be scraped, this research used the search terms ‘Land Reforms’ and ‘لینڈ ریفارمز’ to find relevant posts. Qualifiers applied for selection included selection of posts made by the pages and posts with a comment count of 1 or more. This selection was done manually. As a result, 110 posts were selected (2 posts out of 112 were disqualified later). See Table 1 below for the number of posts selected for each page. 
 
 Table image.
 
-Data collection
+<u>Data Collection</u>
+
 First, the posts selected through the search terms and qualifiers were then recorded manually. URLs and page names of each post were then manually copied into a source links csv with an additional column of post ID. 
 
 To scrape comments from these posts, a selenium based script was used in headless mode. It used the URLs from the source links csv to find posts. Usernames were collected as hashed anonymized IDs. Facebook’s platform specific limitations meant that script could not be optimized for both video and regular type posts. So, the source links data was divided into two new csv files according to the post type indicated within the URL. 
@@ -63,7 +56,8 @@ Data from both the csv files was then consolidated into one UTF-8 csv with now a
 
 Comments were stored in a comment_text column with corresponding metadata for each comment in the rest of the columns. 
 
-Data Cleaning
+<u>Data Cleaning</u>
+
 The first task in cleaning was to separate usernames recorded within the comment text column. Usernames in the comment text existed only in replies to other comments. The usernames were removed and collected into a separate “replied_to_username” column. 
 
 Secondly, another data cleaning script was run to lowercase text, remove punctuation, remove extra spaces and non human language characters in the comment text column. Then another script was run to remove rows with empty comment text cells created as a result of removing non-text objects, URLs and symbols where comments consisted of only non-human language objects. 
@@ -73,8 +67,10 @@ See Table 3 below for structure of clean corpus.
 
 Note on language of corpus: this corpus contains English, Urdu and Romanized Urdu text alongside some relatively rare occurrences of words in local languages of Gilgit-Baltistan. However, analysis of the corpus along linguistic lines was avoided (aside from during interpretation of BERTopic modelling analysis) because of the complexities in demarcation of romanized Urdu and English through automated methods. Moreover, comments are many times in mixed formats, for instance, romanized Urdu words used in a comment written mostly in English. 
 
-Analysis
-Methodology
+## Analysis
+
+<u>Methodology</u>
+
 This research took a two-pronged analysis approach including both concordance analysis and BERTopic modelling to triangulate results. 
 
 Before starting with deeper analysis, descriptive and structural analyses of the corpus was conducted to establish data context. See tables 4-8 for descriptive statistics of the data. 
@@ -95,7 +91,8 @@ Unigrams, bigrams and trigrams provided by a PMI score based method were then ma
 
 BERTopic modelling was then run on the corpus to triangulate the previous method. During the trial stage of this study, stopwords dilemma was already identified to be applicable for BERTopic, therefore, avoided in this stage. Moreover, a random seed number of 42 was used to ensure reproducibility. See findings for detailed results of BERTopic modelling.
 
-Findings
+<u>Findings</u>
+
 The list of signifiers of colonialism included 72 single word and 2-word terms which were proven to exist at least once within the corpus. See figures 5-7 for statistical distribution of these signifiers within the corpus. 
 
 As shown in figure 5 above, signifiers of colonialism accounted for 0.857% of all words within the corpus of 29,140 words i.e. mentioned a total of 249 times and amongst substantive words they account for 1.56% of the words. This shows that these terms occupy a very thin part of the volume. However, as shown in figure 6 above, they are distributed widely, so much so that they are present in 13.8% (198 comments) from all the 1439 comments. Moreover, figure 7 shows that users who do use colonial signifiers tend to write lengthier comments, which makes it less likely for multiple colonial signifiers to be used within these comments. 
@@ -108,4 +105,6 @@ A review of representative comments revealed the marked presence of signifiers o
 
 To sum up, this study showed that the signifiers of colonialism are present in facebook comments on posts relevant to the Gilgit-Baltistan Land Reforms Act 2025. They are thin within the collection of total words but substantially present within a section of users.
 
-Conclusion
+## Conclusion
+
+This research investigated the use of signifiers of colonialism invoked in discourse around the Gilgit-Baltistan Land Reforms Act 2025 in comments on posts relevant to this discourse on public facebook pages catering to audiences in Gilgit-Baltistan. An analysis of 1439 comments from 110 posts revealed that there 
