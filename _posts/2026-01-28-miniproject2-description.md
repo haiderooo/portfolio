@@ -19,22 +19,22 @@ discourse around a recently instituted property law called Gilgit-Baltistan Land
 
 ## Context
 Gilgit-Baltistan (GB) is a disputed territory between India and Pakistan. At the time of the partition of India, GB was a territory of the Kashmir Dogra kingdom
-which was a vassal state of the British Raj. In 1947, a rebellion by local military officers led to liberation of the region from colonial rule. The revolutionary
+which was a vassal state of the British Raj. In 1947, a rebellion by local military officers led to liberation of the region from colonial rule. The early
 leadership, however, handed over GB to Pakistan. Yet, the region has since remained as one part of the former Kashmir territories under administration of Pakistan
-without formal integration. The region’s 2.3 million people don’t have access to national representative forums. 
+without formal integration. It's 2.3 million people don’t have access to national representative forums. 
 
 Within this geopolitical arrangement, Pakistani rule has meant a continuation of colonial structures leading to long-standing grievances. In other words, GB has
 remained an internal colony of Pakistan. Over the decades, people of GB have increasingly come to use ‘colonialism as signifier’ for this ‘colonialism as
-structure.’ Within global literature, land ownership and control regimes are considered central to understanding of colonialism. In GB, land regimes imposed from
+structure.’<sup>1</sup> Within global literature, land ownership and control regimes are considered central to understanding of colonialism. In GB, land regimes imposed from
 above by Pakistan have remained ambiguous on the question of communal ownership. Under Kashmir Dogra rule, communal land or land outside of village boundaries, in
-some parts of GB, had been demarcated as state land. The operative law was called ‘Khalisa Sarkar.’ It is widely understood by local people that the Khalisa
+some parts of GB, had been demarcated as state land. The operative law was called ‘Khalisa Sarkar.’<sup>2</sup> It is widely understood by local people that the Khalisa
 Sarkar regime has been null and void with the end of Dogra rule. Thus, communal property was governed through a mix of indigenous customary law and Pakistan’s
 postcolonial land regimes, with conflicts arising between different regimes as well. Local legislative bodies were missing in Gilgit-Baltistan, until a Gilgit
 Baltistan Assembly was formed in 2009 with authority over limited subjects. In 2025, as part of Pakistani state’s wider push for intensifying extractive
 mechanisms, a new law was produced through the GB Assembly called Gilgit-Baltistan Land Reforms Act 2025. This law consolidates the control over all communal
-lands in the hands of the state while nominally recognizing collective ownership of all non-private land by the people of GB. 
+lands in the hands of the state while nominally recognizing collective ownership of all non-private land by the people of GB.
 
-When the law was scheduled for discussion in the GB Assembly, local activists began agitating widely. Many of them were arrested and jailed. At the same time, widespread opposition was expressed on social media. Within this discourse, semantic signifiers of colonialism could be observed. These signifiers ranged from likening Pakistan’s rule to that of the former Dogra rule and even the East India Company to branding members of the GB Assembly as traitors (قوم کے غدار) and as collaborators (صہولت کار). The question of land has long animated the politics of GB, with anxieties of demographic change and dispossession of resources. In the last two decades, the anxieties around land have shaped people’s signifying of the relationship between Pakistan and GB as colonialism. This research is an attempt to account for colonialism as a signifier on social media.
+When the law was scheduled for discussion in the GB Assembly, local activists began agitating widely. Many of them were arrested and jailed.<sup>3</sup> At the same time, widespread opposition was expressed on social media. Within this discourse, semantic signifiers of colonialism could be observed. These signifiers ranged from likening Pakistan’s rule to that of the former Dogra rule and even the East India Company to branding members of the GB Assembly as traitors (قوم کے غدار) and as collaborators (صہولت کار). The question of land has long animated the politics of GB, with anxieties of demographic change and dispossession of resources. In the last two decades, the anxieties around land have shaped people’s signifying of the relationship between Pakistan and GB as colonialism. This research is an attempt to account for colonialism as a signifier on social media.
 
 
 ## Research Question
@@ -78,11 +78,10 @@ collected as hashed anonymized IDs. Facebook’s platform specific limitations m
 the source links data was divided into two new csv files according to the post type indicated within the URL. 
 
 For video type posts scraper, a scroll count of 20 and a wait time of 2 seconds were used in addition to the script first clicking on “All Comments” and then
-clicking on “view more comments” as many times until the “view more comments” tab disappeared. The scrolling was conducted in two directions. X comments were
-scraped for video type posts.
+clicking on “view more comments” as many times until the “view more comments” tab disappeared. The scrolling was conducted in two directions.
 
 For regular type (‘/v/’) posts scraper, the selenium based script followed a strategy of clicking on “All Comments” and then scrolling with a scroll count of 15
-and a wait time of 2 seconds. X comments were scraped for video type posts.
+and a wait time of 2 seconds.
 
 Sanity checks: 5 posts from each category were manually checked for match between actual comment counts and number of scraped comments. Note that Facebook UI’s
 report of number of comments is misleading and comments have to be manually counted in order to get actual comment count. 
@@ -206,20 +205,40 @@ detailed results of BERTopic modelling.
 
 <u>Findings</u>
 
-The list of signifiers of colonialism included 72 single word and 2-word terms which were proven to exist at least once within the corpus. See figures 5-7 for
-statistical distribution of these signifiers within the corpus. 
+The list of signifiers of colonialism included 72 single word and 2-word terms which were proven to exist at least once within the corpus. See figures 6-8 for
+statistical distribution of these signifiers within the corpus.
 
-As shown in figure 5 above, signifiers of colonialism accounted for 0.857% of all words within the corpus of 29,140 words i.e. mentioned a total of 249 times and
-amongst substantive words they account for 1.56% of the words. This shows that these terms occupy a very thin part of the volume. However, as shown in figure 6
-above, they are distributed widely, so much so that they are present in 13.8% (198 comments) from all the 1439 comments. Moreover, figure 7 shows that users who
+
+Figure 6: Volume and Density of Signifiers of Colonialism in the Corpus.
+![figure 6]({{site.baseurl}}images/2_Signifier_Prevalence_Comparison_Chart.png)
+
+
+Figure 7: Distibution of Signifiers of Colonialism by Comments.
+![figure 7]({{site.baseurl}}images/2_Colonial_Prevalence_Donut.png)
+
+
+Figure 8: Comment Length of Users mentioning Signifiers of Colonialism.
+![figure 8]({{site.baseurl}}images/2_Length_Comparison_Colonial_Framing.png)
+
+
+As shown in figure 6 above, signifiers of colonialism accounted for 0.857% of all words within the corpus of 29,140 words i.e. mentioned a total of 249 times and
+amongst substantive words they account for 1.56% of the words. This shows that these terms occupy a very thin part of the volume. However, as shown in Figure 7
+above, they are distributed widely, so much so that they are present in 13.8% (198 comments) from all the 1439 comments. Moreover, figure 8 shows that users who
 do use colonial signifiers tend to write lengthier comments, which makes it less likely for multiple colonial signifiers to be used within these comments. 
 
-Co-occurrence heatmap, as shown in Figure 8, reveals more about how these colonial signifiers are used within discourse. 33% of the comments which mention the GB
-Government, also use words signifying “colonial collaborators” such as ‘سہولتکار’, ‘غدار’, ‘دلال’. Whereas, 31% of comments mentioning the government of GB use framings
+Co-occurrence heatmap, as shown in Figure 9 below, reveals more about how these colonial signifiers are used within discourse. 
+
+
+Figure 9: Bipartite Heatmap of Signifiers of Colonialism Lexicon to Anchor Lexicon
+![figure 9]({{site.baseurl}}images/2_Explicit_Colonial_Mapping.png)
+
+
+33% of the comments which mention the
+Government of Gilgit-Baltistan or GB government for short, also use words signifying “colonial collaborators” such as ‘سہولتکار’, ‘غدار’, ‘دلال’. Whereas, 31% of comments mentioning the GB government use framings
 of colonialism related to land such as ‘قبضہ’, ‘خالصہ سرکار’, and ‘land grab.’ In 23% of the comments mentioning politicians of Gilgit-Baltistan, most mentioned of
 them including Haji Gulbar Khan (the Chief Minister) and Amjad Hussain Advocate (the Leader of the Opposition), the mention of colonial collaboration co-occurs.
 The co-occurrence heatmap reveals that when used, signifiers of colonialism in this corpus target the government, assembly and politicians of Gilgit-Baltistan who
-are seen as responsible for ‘facilitating’ the GBLRA 2025 law. They are not only blamed through accusing them of incompetence and betrayal of mandate but also
+are seen as responsible for ‘facilitating’ the GBLRA 2025 law. This pattern was also observable during qualitative coding of representative comments of topics. They are not only blamed through accusing them of incompetence and corruption but also
 through framing them as colonial collaborators. 
 
 BERTopic modelling provided 20 topics including the noise topic (-1). Topic clustering was skewed on linguistic lines with three topics dominated by Roman Urdu, 5
@@ -250,7 +269,9 @@ relationship between Pakistan and Gilgit-Baltistan as colonial.
 
 Handling social media text during data scrapping and analysis presents several challenges owing to platform-based limitations and the multiple layered nature of
 social media discourse. It took me at least a few days to come up with a working selenium based scrapper with the help of my instructors and with assistance of
-ChatGPT and other AI chatbots. Given my previous unfamiliarity with code/python based analysis methods meant that I had to rely on AI chatbot assistance and the
+ChatGPT and other AI chatbots. When I finally did make a script, Facebook's platform limitations ensured that video post optimized script would not work well for regular posts. This is because of completely different structure of scrolling, differently labeled buttons and different positions of comment sections on the page. I did apply for Meta API Library access three times, however, they only got back to me during my third try after about two weeks, and that too asking for more information about me including how would this research contribute towards 'scientific knowledge.' 
+
+Being new to code/python based analysis methods and generally to text analysis meant that I had to rely on AI chatbot assistance and the
 guidance of my instructors. It was difficult to make decisions given many known unknowns and unknown unkowns. In this process I ended up experimenting with a
 variety of analyses methods including GEPHI network visualization to wordtree maps, word clouds, kwic and collocations, in search for methods which might provide
 unique insights about my data. 
@@ -265,3 +286,20 @@ of colonialism in my data. It understood that meaningful should actually mean mo
 responses to suggest that it knows I am looking for just straightforward validation of my biases or completion of a task. So, unless explicitly requested, ChatGPT 
 and Gemini AI would prioritize user satisfaction over systematic and scientific process while assisting with research.
 
+Finally, I see that qualitative coding and thematic analysis has its own value. From looking at the data myself, I felt like the signifying of colonialism was not restricted to a "vocal minority" as found through these methods. Multiple researchers have argued that the signifiers of colonialism are no more restricted to a vocal minority in Gilgit-Baltistan as it used to be the case before as pointed out for example by Sokefeld for the 1990s. However, I would be very interested to learn about ways to enhance this analysis for example through bringing the actual posts by the pages into context of the comments. 
+
+Amongst some things that this research missed from within the data was accounting for replied to usernames which were in another column to enhance the estimate of frequency of repeat users. Secondly, timestamps were obtained only as 'X weeks old' as displayed on Facebook UI, so a time-based analysis could not be made which would've involved changing the inputs everytime the analysis was repeated for example for trial and error. 
+
+
+# References
+
+Sōkefeld, Martin. "From colonialism to postcolonial colonialism: changing modes of domination in the Northern areas of Pakistan." The journal of Asian studies 64, no. 4 (2005): 939-973. Retrieved from [https://www.jstor.org/stable/25075905](https://www.jstor.org/stable/25075905).
+
+Bhatti, Muhammad Ajmal, and Zahir Ali. "Land tenure and title system in gilgit-baltistan." Journal of Studies in Social Sciences 15, no. 1 (2016). Retrieved from [https://umangpoetry.org/poem/dheere-dheere-aur-kis-ne/](https://infinitypress.info/index.php/jsss/article/viewFile/1327/597).
+
+Ali, Haider, and Qalandar Memon. Why Gilgit-Baltistan Is Rising Against Pakistan’s Land Seizures - NAKED PUNCH. June 14, 2025. Retrieved from [https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/](https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/).
+
+
+# Credits
+Banner Image: Edited Image. Photograph by Salim Khan, edited to add text.
+Text on Banner Image: Verse from poem by Abdul Hafeez Shakir. Retrieved from [https://umangpoetry.org/poem/dheere-dheere-aur-kis-ne/ ](https://umangpoetry.org/poem/dheere-dheere-aur-kis-ne/)
