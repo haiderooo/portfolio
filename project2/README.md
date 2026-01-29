@@ -1,14 +1,15 @@
 # Project 2 Folder Organization
 
-## corpus
-
-"corpus" folder contains: 
-- "raw" folder for all raw data files which include:
+## corpus folder
+contains: 
+- #### "raw" folder for all raw data files
+  contains:
   -   "source_links.csv" with URLs to all selected posts for research corpus
   -   "source_links_v.csv" with URLs to video posts from selected posts list
   -   "source_links_r.csv" with URLs to regular posts from selected posts list
   -   "consol_raw_cmnts.csv" with all scraped comments along with metadata columns.
-- "clean" folder for all clean data files which include:
+- #### "clean" folder for all clean data files:
+  contains:
   - "clean_usernames.csv" which was obtained after separating usernames from within comment_text column to a separate "replied_to_username" column
   - "final_clean_cmnts1.csv" which was obtained after applying all other cleaning tasks on "clean_usernames.csv"
   - "ref_col_terms.csv" which was the list of signifiers of colonialism that was validated for presence in the corpus. Examples are "نوآبادیاتی", "قبضہ".
@@ -16,8 +17,7 @@
 
 
 ## scripts
-
-"scripts" folder contains all scripts used to arrive at data, calculations and visualizations used in this research, including:
+contains:
 - "0_source_links_split.py" is script to split "source_links.csv" into two based on type of posts as shown in URL /v/ video or /p/ regular 
 - "0_1_scraper_r.py" is selenium based script to scrap comments from regular posts from "source_links_r.csv"
 - "0_1_scraper_v.py" selenium based script to scrap comments from video posts from "source_links_r.csv"
@@ -37,8 +37,7 @@
 
 
 ## visualizations
-
-"visualizations" folder contains:
+contains:
 - "1_page_structural_analysis.png" which shows Total Comments per Page and Average Comment Length per Page
 - "1_user_correlation.png" is a line chart showing correlation between user repeat comment frequency and total words density of user in corpus
 - "1_user_length_distribution.png" is a histogram showing the distribution of users in the data according to avg length of comments. 
@@ -50,7 +49,8 @@
 - "2_Signifier_Prevalence_Comparison_Chart.png" is a bar chart showing density of signifiers of colonialism in the total word count of the corpus and in the count of substantive words defined by difference from stopwords. To see the lists of stopwords used in this study in addition to nltk library for Enlgish stopwords, you can see stopword list files on google drive by clicking [here](https://drive.google.com/drive/folders/1p-RY4dFUXIYLLVPtNUwRdrVTLgx9__K7?usp=sharing).
 - "2_User_Persistence_Colonial_Framing.png" is a bar chart showing Comparison of Number of Comments per User between Users mentioning signifiers of colonialism versus those who do not mention these signifiers.
 - "3_Topic_Colonial_Density.png" shows the Density of Signifiers of Colonialism within word counts of 20 topics provided by BERTopic clustering.
-- "tables" folder which contains:
+- #### "tables" folder
+  contains:
   - "t1.png" which shows the number of posts selected for each post for "source_links.csv"
   - "t2_5_rows_raw.png" shows table for structure of raw corpus csv file. 
   - "t3__rows_clean.png" shows table for structure of clean corpus csv file.
