@@ -186,4 +186,28 @@ They are thin within the collection of total words but substantially present wit
 ## Conclusion
 
 This research investigated the use of signifiers of colonialism invoked in discourse around the Gilgit-Baltistan Land Reforms Act 2025 in comments on posts
-relevant to this discourse on public facebook pages catering to audiences in Gilgit-Baltistan. An analysis of 1439 comments from 110 posts revealed that there is presence of signifiers of colonialism in this discourse which takes up a small percentage of total word volume but is substantially present across comments. It is mostly present in the form of terming of Gilgit-Baltistan's assembly, government and mainstream politicians as colonial collaborators. 
+relevant to this discourse on public facebook pages catering to audiences in Gilgit-Baltistan. An analysis of 1439 comments from 110 posts revealed that there is
+presence of signifiers of colonialism in this discourse which takes up a small percentage of total word volume but is substantially present across comments. It is
+mostly present in the form of terming of Gilgit-Baltistan's assembly, government and mainstream politicians as colonial collaborators. BERTopic modelling revealed
+at least three clusters within this discourse dominated by support for resistance leaders like Advocate Ehsan Ali and Nawaz Khan Naji who themselves frame the
+relationship between Pakistan and Gilgit-Baltistan as colonial. 
+
+<u>Limitations and Reflections</u>
+
+Handling social media text during data scrapping and analysis presents several challenges owing to platform-based limitations and the multiple layered nature of
+social media discourse. It took me at least a few days to come up with a working selenium based scrapper with the help of my instructors and with assistance of
+ChatGPT and other AI chatbots. Given my previous unfamiliarity with code/python based analysis methods meant that I had to rely on AI chatbot assistance and the
+guidance of my instructors. It was difficult to make decisions given many known unknowns and unknown unkowns. In this process I ended up experimenting with a
+variety of analyses methods including GEPHI network visualization to wordtree maps, word clouds, kwic and collocations, in search for methods which might provide
+unique insights about my data. 
+
+Moreover, AI chatbots have a tendency to affirm one's biases unless explicitly checked. So, if ever I was unsure and made a tentative suggestion, it would
+encouraged me to go for it. For example, I had used stopwords in BERTopic analysis during the trial stage and understood that accounting for stopwords could
+lead to loss of syntax for BERTopic's modelling. However, when I tentatively made the suggestion during this stage that stopwords might provide better and more
+meaningful clustering, it strongly encouraged me to go ahead and feed stopwords list to BERTopic script. It was only when I checked it asking it to be honestly
+review the decision that it mentioned the risk of stopwords disturbing the syntax. Speaking of meaningfulness, whenever I asked ChatGPT as well as Gemini that my
+visualizations and analyses methods are not providing meaningful methods, it kept on giving me suggestions which would exaggerate the substantiality of signifiers
+of colonialism in my data. It understood that meaningful should actually mean more appropriate methods but it added quotation marks to the word meaningful in its
+responses to suggest that it knows I am looking for just straightforward validation of my biases or completion of a task. So, unless explicitly requested, ChatGPT 
+and Gemini AI would prioritize user satisfaction over systematic and scientific process while assisting with research.
+
