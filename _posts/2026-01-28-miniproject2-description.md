@@ -11,13 +11,11 @@ tags:
 image: images/edited_banner_image.png
 ---
 
-Finalized project description: analysis of 1439 facebook comments from 110 posts on public pages.
-
-<!--more-->
-
 ## Introduction
 This study analyzed facebook comments between 2023-25 on public pages prominent in Gilgit-Baltistan to investigate the use of colonialism as signifier in
 discourse around a recently instituted property law called Gilgit-Baltistan Land Reforms Act 2025. 
+
+<!--more-->
 
 ## Context
 Gilgit-Baltistan (GB) is a disputed territory between India and Pakistan. At the time of the partition of India, GB was a territory of the Kashmir Dogra kingdom
