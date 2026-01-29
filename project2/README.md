@@ -30,7 +30,7 @@
 - "2_1_lex_signifier_prevalence_comp.py" is script to calculate prevalence of signifiers of colonialism in the comments --> comment_text column in the clean corpus.
 - "2_2_lex_signifier_prevalence_visual.py" is script to visualize prevalence of signifiers of colonialism in the comments.
 - "2_3_lex_top10_donut.py" is script to visualize number and percentage of comments carrying signifiers of colonialism in the comments.
-- "3_1_exp_bert.py" is script for BERTopic model execution and to save model and save csv file with topics mapped onto the comments.
+- "3_1_exp_bert.py" is script for exploratory BERTopic model execution with a random seed number of 42 and to save model and save csv file with topics mapped onto the comments.
 - "3_2_rprsnt_cmnts_exp_bert.py" is script that uses saved BERTopic model to create csv of 15 representative comments for each topic.
 - "3_3_stats_on_topics.py" is script using saved BERTopic model and saved csv of mapped topics to create csv file with summary statistics for topics.
 - "3_4_vis_bert.py" creates visuals including html and png files for representation of BERTopic model analysis of the data.
@@ -48,16 +48,11 @@
 - "2_Explicit_Colonial_Mapping.png" is a bipartite co-occurrence heatmap between categories from "ref_col_terms.csv" and categories from "ref_ntrl_terms.csv"
 - "2_Length_Comparison_Colonial_Framing.png" is a box-plot comparing Avg. Comment Length between comments which use signifiers of colonialism and comments which donot use signifiers of colonialism as defined by "ref_col_terms.csv" 
 - "2_Signifier_Prevalence_Comparison_Chart.png" is a bar chart showing density of signifiers of colonialism in the total word count of the corpus and in the count of substantive words defined by difference from stopwords. To see the lists of stopwords used in this study in addition to nltk library for Enlgish stopwords, you can see stopword list files on google drive by clicking [here](https://drive.google.com/drive/folders/1p-RY4dFUXIYLLVPtNUwRdrVTLgx9__K7?usp=sharing).
-- "2_Top10_Signifiers_Urdu_Corrected.png" shows 
-- "2_User_Persistence_Colonial_Framing.png"
-- "3_Topic_Colonial_Density.png"
-- "3_Topic_Volume_vs_Intensity_Fixed.png"
+- "2_User_Persistence_Colonial_Framing.png" is a bar chart showing Comparison of Number of Comments per User between Users mentioning signifiers of colonialism versus those who do not mention these signifiers.
+- "3_Topic_Colonial_Density.png" shows the Density of Signifiers of Colonialism within word counts of 20 topics provided by BERTopic clustering.
 - "tables" folder which contains:
   - "t1.png" which shows the number of posts selected for each post for "source_links.csv"
-  - "t2_5_rows_raw.png"
-  - "t3__rows_clean.png"
-  - "t4_5_6.png"
-  - "t7_8.png"
-
-This is a Jekyll website template that is based on the [Basically Basic Jekyll Theme](https://github.com/mmistakes/jekyll-theme-basically-basic).
-
+  - "t2_5_rows_raw.png" shows table for structure of raw corpus csv file. 
+  - "t3__rows_clean.png" shows table for structure of clean corpus csv file.
+  - "t4_5_6.png" shows 3 tables for Overview Descriptive Statistics of Corpus, Distribution of Comments by Page and Descriptive Statistics of Text in Comment_Text Column.
+  - "t7_8.png" show 2 tables for Distribution of Comments by Posts and Distribution of Comments by Users.
