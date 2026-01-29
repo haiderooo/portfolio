@@ -63,7 +63,12 @@ To select posts from which comments could be scraped, this research used the sea
 for selection included selection of posts made by the pages and posts with a comment count of 1 or more. This selection was done manually. As a result, 110 posts
 were selected (2 posts out of 112 were disqualified later). See Table 1 below for the number of posts selected for each page. 
 
-Table image.
+
+Table 1: Pages and Number of Posts
+![t1 no of posts per page]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+
+
+
 
 <u>Data Collection</u>
 
@@ -88,9 +93,13 @@ Data from both the csv files was then consolidated into one UTF-8 csv with now a
 raw corpus.
 
 
+Table 2: Structure of raw data csv file.
+![t2 rows raw data csv]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+
 
 
 Comments were stored in a comment_text column with corresponding metadata for each comment in the rest of the columns. 
+
 
 <u>Data Cleaning</u>
 
@@ -103,32 +112,79 @@ consisted of only non-human language objects.
 
 See Table 3 below for structure of clean corpus.
 
+Table 3: Structure of clean data csv file.
+![t3 rows clean data csv]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+
+
 
 Note on language of corpus: this corpus contains English, Urdu and Romanized Urdu text alongside some relatively rare occurrences of words in local languages of
 Gilgit-Baltistan. However, analysis of the corpus along linguistic lines was avoided (aside from during interpretation of BERTopic modelling analysis) because of
 the complexities in demarcation of romanized Urdu and English through automated methods. Moreover, comments are many times in mixed formats, for instance,
 romanized Urdu words used in a comment written mostly in English. 
 
+
+
 ## Analysis
 
 <u>Methodology</u>
 
-This research took a two-pronged analysis approach including both concordance analysis and BERTopic modelling to triangulate results. 
+This research took a two-pronged analysis approach including both concordance analysis and
+BERTopic modelling to triangulate results. 
 
-Before starting with deeper analysis, descriptive and structural analyses of the corpus was conducted to establish data context. See tables 4-8 for descriptive
-statistics of the data. 
-Pamir Times had the highest number of comments. 
-As shown in tables 4-8, the cleaned corpus had a total of 96 posts with a total of 1439 comments from which 243 were replies to comments. Total number of words in
-the comment_text column were 29,141. Pamir Times had an overwhelming majority of 826 comments. The mean comment length was almost 15. 
-
-After descriptive statistics, a deeper structural analysis was conducted to investigate how page level variation and user level variation shape the data. See
-Figures 1-4 and Table 9 below for results of structural analysis. 
+Before starting with deeper analysis, descriptive and structural analyses of the corpus was
+conducted to establish data context. See Tables 4-8 below for descriptive statistics of the
+data. 
 
 
-Progressive Gilgit-Baltistan shows the highest ratio of replies to comments and the most comment length as well, showing a greater peer-to-peer engagement by
-users on posts by this page for GBLRA 2025 discourse. Comments by most users fall within 1-100 word comment length. There is a correlation between the number of
-comments and greater lengths of comments. However, frequent users account for 17.6% of text in the corpus, suggesting the presence of frequent ‘power-users’ but
-their contribution to the corpus is not overwhelming and therefore may not skew the data.  
+
+
+Table 4, 5 and 6: Overview Descriptive Statistics of Corpus, Distribution of Comments by Page and Descriptive Statistics of Text in Comment_Text Column.
+![t4 5 and 6]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+
+
+Table 7 and 8: Distribution of Comments by Posts and Distribution of Comments by Users.
+![t7 and 8]({{site.baseurl}}images/AFIHRIST-UK-Libraries.png)
+
+
+
+
+As shown in Tables 4-8 above, the cleaned corpus had a total of 96 posts with a total of 1439
+comments from which 243 were replies to comments. Total number of words in
+the comment_text column were 29,141. Pamir Times had an overwhelming majority of 826 comments.
+The mean comment length was almost 15. 
+
+After descriptive statistics, a deeper structural analysis was conducted to investigate how
+page level variation and user level variation shape the data. See
+Figures 1-5 below for results of structural analysis. 
+
+
+
+
+Figure 1: Reply to Comment Ration by Page.
+![figure 1]({{site.baseurl}}images/1_page_reply_ratio.png)
+
+Figure 2: Total Number of Comments by Page and Average Comment Length by Page.
+![figure 2]({{site.baseurl}}images/1_page_structural_analysis.png)
+
+Figure 3: Distribution of Users by Average Comment Length.
+![figure 3]({{site.baseurl}}images/1_user_length_distribution.png)
+
+Figure 4: Relation between Comment Frequency and Contribution of Words to Corpus.
+![figure 3]({{site.baseurl}}images/1_user_correlation.png)
+
+Figure 5: Contribution of Words by Frequent Users to Corpus.
+![figure 5]({{site.baseurl}}images/1_word_contribution_pie.png)
+
+
+
+
+Progressive Gilgit-Baltistan shows the highest ratio of replies to comments and the most
+comment length as well, showing a greater peer-to-peer engagement by users on posts by this
+page for GBLRA 2025 discourse. Comments by most users fall within 1-100 word comment length.
+There is a correlation between the number of comments and greater lengths of comments. However,
+frequent users account for 17.6% of text in the corpus, suggesting the presence of frequent
+‘power-users’ but
+their contribution to the corpus is not overwhelming and therefore does not skew the data severely.  
 
 Given this description of data, the methodology moves towards addressing the research question. 
 First step was to create a lexicon or list of words, bigrams and trigrams that can be judged to signal framing the issue of GBLRA 2025 as an issue of or linked to
