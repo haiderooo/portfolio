@@ -63,7 +63,7 @@ were selected (2 posts out of 112 were disqualified later). See Table 1 below fo
 
 
 Table 1: Pages and Number of Posts
-![t1 no of posts per page]({{site.baseurl}}images/t1)
+![t1 no of posts per page]({{site.baseurl}}images/t1.png)
 
 
 
@@ -140,7 +140,7 @@ Table 4, 5 and 6: Overview Descriptive Statistics of Corpus, Distribution of Com
 
 
 Table 7 and 8: Distribution of Comments by Posts and Distribution of Comments by Users.
-![t7 and 8]({{site.baseurl}}images/At7_8.png)
+![t7 and 8]({{site.baseurl}}images/t7_8.png)
 
 
 
