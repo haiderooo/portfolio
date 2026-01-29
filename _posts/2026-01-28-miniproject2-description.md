@@ -293,11 +293,11 @@ Amongst some things that this research missed from within the data was accountin
 
 # References
 
-Sōkefeld, Martin. "From colonialism to postcolonial colonialism: changing modes of domination in the Northern areas of Pakistan." The journal of Asian studies 64, no. 4 (2005): 939-973. Retrieved from [https://www.jstor.org/stable/25075905](https://www.jstor.org/stable/25075905).
+1. Sōkefeld, Martin. "From colonialism to postcolonial colonialism: changing modes of domination in the Northern areas of Pakistan." The journal of Asian studies 64, no. 4 (2005): 939-973. Retrieved from [https://www.jstor.org/stable/25075905](https://www.jstor.org/stable/25075905).
 
-Bhatti, Muhammad Ajmal, and Zahir Ali. "Land tenure and title system in gilgit-baltistan." Journal of Studies in Social Sciences 15, no. 1 (2016). Retrieved from [https://umangpoetry.org/poem/dheere-dheere-aur-kis-ne/](https://infinitypress.info/index.php/jsss/article/viewFile/1327/597).
+2. Bhatti, Muhammad Ajmal, and Zahir Ali. "Land tenure and title system in gilgit-baltistan." Journal of Studies in Social Sciences 15, no. 1 (2016). Retrieved from [https://umangpoetry.org/poem/dheere-dheere-aur-kis-ne/](https://infinitypress.info/index.php/jsss/article/viewFile/1327/597).
 
-Ali, Haider, and Qalandar Memon. Why Gilgit-Baltistan Is Rising Against Pakistan’s Land Seizures - NAKED PUNCH. June 14, 2025. Retrieved from [https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/](https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/).
+3. Ali, Haider, and Qalandar Memon. Why Gilgit-Baltistan Is Rising Against Pakistan’s Land Seizures - NAKED PUNCH. June 14, 2025. Retrieved from [https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/](https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/).
 
 
 # Credits
