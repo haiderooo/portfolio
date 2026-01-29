@@ -306,6 +306,9 @@ Amongst some things that this research missed from within the data was accountin
 3. Ali, Haider, and Qalandar Memon. Why Gilgit-Baltistan Is Rising Against Pakistan’s Land Seizures - NAKED PUNCH. June 14, 2025. Retrieved from [https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/](https://nakedpunch.com/why-gilgit-baltistan-is-rising-against-pakistans-land-seizures/).
 
 
+# Stopwords list
+To check non-english stopwords lists used for this study, [click here](https://drive.google.com/drive/folders/1p-RY4dFUXIYLLVPtNUwRdrVTLgx9__K7?usp=sharing)(google drive link).
+
 # Credits
 Banner Image: Edited Image. Photograph by Salim Khan, edited to add text.
 
