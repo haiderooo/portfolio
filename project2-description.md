@@ -2,7 +2,7 @@
 title: Project2 Description
 permalink: /projects/
 layout: page
-image: images/edited_banner.png
+image: images/edited-banner.png
 ---
 
 # Study on Colonialism as Signifier in Social Media Discourse on the Gilgit-Baltistan Land Reforms Act 2025
