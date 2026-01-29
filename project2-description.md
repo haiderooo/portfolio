@@ -1,10 +1,11 @@
 ---
-title: Study on Colonialism as Signifier in Social Media Discourse around Gilgit-Baltistan Land Reforms Act 2025
-permalink: /project2/
+title: Project2 Description
+permalink: /projects/
 layout: page
 image: images/edited_banner.png
 ---
 
+# Study on Colonialism as Signifier in Social Media Discourse on the Gilgit-Baltistan Land Reforms Act 2025
 
 ## Introduction
 This study analyzed facebook comments between 2023-25 on public pages prominent in Gilgit-Baltistan to investigate the use of colonialism as signifier in
