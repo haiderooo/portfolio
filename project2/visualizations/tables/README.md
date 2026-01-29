@@ -1,4 +1,4 @@
-# "tables" folder
+## tables
   contains:
   - "t1.png" which shows the number of posts selected for each post for "source_links.csv"
   - "t2_5_rows_raw.png" shows table for structure of raw corpus csv file. 
