@@ -8,7 +8,6 @@ tags:
   - social media topic modelling
   - social media research
   - gilgit-baltistan
-  - political ecology
 image: images/protest.jpg
 ---
 
