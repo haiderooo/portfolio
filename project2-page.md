@@ -1,5 +1,5 @@
 ---
-title: Project2
+title: Social Media Discourse Study
 permalink: /project2/
 layout: page
 image: images/edited_banner_image.png
