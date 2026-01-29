@@ -11,8 +11,9 @@ tags:
   - political ecology
 image: images/protest.jpg
 ---
- 
+
 Finalized project description: analysis of 1439 facebook comments from 110 posts on public pages.
+
 <!--more→
 
 ## Introduction
