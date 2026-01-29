@@ -9,7 +9,7 @@ tags:
   - social media research
   - gilgit-baltistan
   - political ecology
-image: images/protest.jpg
+image: images/banner3.jpg
 ---
 
 This study analyzed facebook comments between 2023-25 on public pages prominent in Gilgit-Baltistan to investigate the use of colonialism as signifier in discourse around a recently instituted property law called Gilgit-Baltistan Land Reforms Act 2025.
